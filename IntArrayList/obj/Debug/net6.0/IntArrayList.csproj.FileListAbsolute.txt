@@ -1,0 +1,15 @@
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\bin\Debug\net6.0\IntArrayList.exe
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\bin\Debug\net6.0\IntArrayList.deps.json
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\bin\Debug\net6.0\IntArrayList.runtimeconfig.json
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\bin\Debug\net6.0\IntArrayList.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\bin\Debug\net6.0\IntArrayList.pdb
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\refint\IntArrayList.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.pdb
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\IntArrayList.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\IntArrayList\IntArrayList\obj\Debug\net6.0\ref\IntArrayList.dll
